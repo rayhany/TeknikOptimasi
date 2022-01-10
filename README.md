@@ -1,6 +1,4 @@
 # TeknikOptimasi
 <br>
 
-Latihan 1, 2, dan 3 berisi tentang sorce codepertemuan Teknik Optimasi yang saya ikuti dari vidio ealerning yang berisi dua file yaitu 
-a. products.txt
-b. agen_knapsack.php
+Latihan dari pertemuan 1-10 berisi tentang sorce code pertemuan Teknik Optimasi yang saya ikuti dari vidio ealerning dan github dari Bpk. Ardiyansyah 
